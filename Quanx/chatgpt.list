@@ -1,1 +1,7 @@
-
+HOST-SUFFIX,openai.com
+HOST-SUFFIX,chat.openai.com
+HOST-SUFFIX,challenges.cloudflare.com
+HOST-SUFFIX,auth0.openai.com
+HOST-SUFFIX,platform.openai.com
+# Add ai.com
+HOST-SUFFIX,ai.com
